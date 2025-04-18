@@ -2,7 +2,7 @@
 **Redesigning YouTube’s Mobile Interface in Figma**  
 
 
-> A design prototype for mindful media consumption—without disrupting user engagement.
+> A figma design for mindful media consumption—without disrupting user engagement.
 > [https://www.figma.com/design/Woiw5VYAcg4NBIcMrYI5jR/DESIGN-FORGE?node-id=0-1&t=pZQWJQzyszO3vFS7-1 ] 
 > Submitted for the **DesignForge Contest powered by YouTube**  
 > **Participant:** Prateek Gupta
